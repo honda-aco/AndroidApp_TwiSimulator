@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TwiSimulator</string>
+    <string name="db_name">TwiSimulatorDB</string>
+    <string name="db_version">1</string>
+    <string name="image_directory">/data/data/com.ns.aco.sp2/</string>
+    <string name="image_file">account_image.png</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id_home">ca-app-pub-3375705566833853/9103427120</string>
+    <string name="banner_ad_unit_id_dialog">ca-app-pub-3375705566833853/1580160325</string>
+    <string name="asta_icon_ad_id">ast020359xc8uxhyurqu</string>
+    <string name="asta_wall_ad_id">ast02035yihhuj0wy4p3</string>
+</resources>
